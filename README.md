@@ -9,7 +9,7 @@
 [![Pull Requests welcome](https://img.shields.io/badge/PRs-welcome-ff69b4.svg?style=flat-square)](https://github.com/Web3Arabs/starknet-course/issues?q=is%3Aissue+is%3Aopen)
 <a href="https://twitter.com/Web3Arabs">
 <img src="https://img.shields.io/twitter/follow/Web3Arabs?style=social"/>
-</a> <a href="https://github.com/Web3Arabs/starknet-course">
+</a> <a href="https://github.com/Web3Arabs/starknet-course/stargazers">
 <img src="https://img.shields.io/github/stars/Web3Arabs/starknet-course?style=social"/>
 </a>
 <a href="https://web3arabs.com/courses/3d88b1a4-ad68-400b-94d3-df89a5f95cfd/lessons/">
